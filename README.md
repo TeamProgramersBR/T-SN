@@ -17,7 +17,7 @@ pwned by : hide and seek
  
  -u --upload=destino manda um arquivo ao alvo
 
-<a href="https://github.com/TeamProgramersBR/T-SN.git">
+<a href="https://github.com/TeamProgramersBR/T-SN/archive/master.zip">
 <img src="http://batidaoautomotivo.com.br/wp-content/uploads/2015/08/Botao-Download.png" alt="alt tag" style="max-width:100%;">
  </a>
  
